@@ -14,8 +14,8 @@ Standard open-source game engines are built for accessibility, modularity, and e
 
 **Caldera was built to break the asset flipper's business model.**
 
-Normal DRM is trash. They throw money at the problem and tell them to make it work however they can.
-We decline this model, and insted turn to *actually using our brains and targeting the tools they use to decompile specificly.*
+Normal DRM is trash. They throw money at the problem and tell them to make it work however they can which results in things like Denuvo.
+We decline this model, and insted turn to *actually using our brains and targeting the tools they use to decompile specificly.* Caldera has practically zero overhead during actual gameplay, and just a ever so slightly (within a margin of error of like... 1%) 35ms startup time cost.
 
 We believe that independent developers deserve to ship their games without the fear that their years of hard work will be stolen and monetized by a script kiddie in five minutes. Absolute, uncrackable DRM is a myth, but **economic deterrence** is very real. Caldera's goal is to raise the "time-to-crack" threshold so high that malicious actors abandon the attempt out of sheer frustration.
 
