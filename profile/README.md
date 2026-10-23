@@ -41,9 +41,9 @@ Contact us at armyof64@gmail.com to apply for access to Caldera. Caldera is only
 
 We do not ask for any profit sharing, the use of Caldera is free, but you must ensure the security of the engine build you are given. 
 
-Let me repeat this: you MUST have a near-complete product to gain access. To protect the engine's obfuscation architecture from falling into the hands of bad actors, we require definitive proof of IP ownership before granting access. Accepted verification methods include:
-
 You do not need Caldera to build your game until you plan to release it (Demo, full release, early alpha, etc)! It can import and use default Godot projects so focus on your game until you are close to one of those, then come talk to us!
+
+Let me repeat this: you MUST have a near-complete product to gain access. To protect the engine's obfuscation architecture from falling into the hands of bad actors, we require definitive proof of IP ownership before granting access. Accepted verification methods include:
 
 A live-call screenshare of your backend developer portal (Steamworks, Epic, Apple/Google Play, or itch.io).
 
