@@ -43,11 +43,11 @@ We do not ask for any profit sharing, the use of Caldera is free, but you must e
 
 Let me repeat this: you MUST have a near-complete product to gain access. To protect the engine's obfuscation architecture from falling into the hands of bad actors, we require definitive proof of IP ownership before granting access. Accepted verification methods include:
 
-You do not need Caldera to build your game  until you plan to release it! It can import and use default Godot projects so focus on your game until you are close to release then come talk to us!
+You do not need Caldera to build your game until you plan to release it (Demo, full release, early alpha, etc)! It can import and use default Godot projects so focus on your game until you are close to one of those, then come talk to us!
 
 A live-call screenshare of your backend developer portal (Steamworks, Epic, Apple/Google Play, or itch.io).
 
-A live-call screenshare of your project's source control repository demonstrating long-term commit history.
+A live-call screenshare of your project's source control repository demonstrating long-term commit history (6m-1y+ where any commit can be clicked into a show changes).
 
 Authentication via official studio infrastructure (e.g., emailing from your game's verified web domain or temporarily modifying a live storefront description with a verification code).
 ## Contributing
